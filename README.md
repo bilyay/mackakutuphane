@@ -10,6 +10,10 @@ Proje şu anda tarayıcıda açılabilen bir arayüz prototipidir. Kitap katalo�
 
 Bu prototipi denemek için `index.html` dosyasını güncel bir tarayıcıda açın. Okul logosu ve fotoğrafı göreli dosya yolu ile yüklendiğinden, `okul_logosu.jpg` ve `okul_gorseli.jpg` dosyaları proje klasöründe kalmalıdır.
 
+Yayınlanan sayfa: https://bilyay.github.io/mackakutuphane/
+
+`main` dalına gönderilen her değişiklik GitHub Actions ile GitHub Pages'te otomatik yayınlanır.
+
 ## Bilinen sınırlar
 
 Prototipte ayırmalar yalnızca bu tarayıcıda geçerlidir. Başka bir cihazda veya tarayıcıda aynı kopya başka bir öğrenciye ayrılmış görünebilir. Eski kayıtlar takılırsa sayfayı Ctrl+Shift+R ile yenileyin.
