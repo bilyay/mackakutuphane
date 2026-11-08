@@ -10,9 +10,7 @@ Proje şu anda tarayıcıda açılabilen bir arayüz prototipidir. Kitap katalo�
 
 Bu prototipi denemek için `index.html` dosyasını güncel bir tarayıcıda açın. Okul logosu ve fotoğrafı göreli dosya yolu ile yüklendiğinden, `okul_logosu.jpg` ve `okul_gorseli.jpg` dosyaları proje klasöründe kalmalıdır.
 
-Yayınlanan sayfa: https://bilyay.github.io/mackakutuphane/
-
-`main` dalına gönderilen her değişiklik GitHub Actions ile GitHub Pages'te otomatik yayınlanır.
+GitHub deposunda **Settings > Pages > Build and deployment > Source** bölümünden **GitHub Actions** seçildikten sonra sayfa `https://bilyay.github.io/mackakutuphane/` adresinde yayınlanır. `main` dalına gönderilen her değişiklik otomatik yayınlanır.
 
 ## Bilinen sınırlar
 
